@@ -1,4 +1,4 @@
-# Socket chat
+# Clip Path Text
 
 A demonstration of the clip-path property to provide an interesting visual background to text
 
