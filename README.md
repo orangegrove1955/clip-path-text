@@ -8,4 +8,4 @@ A demonstration of the clip-path property to provide an interesting visual backg
 
 # Demo
 
-Check out the [Netlify demo](https://netlify.app/)
+Check out the [Github pages demo](https://orangegrove1955.github.io/clip-path-text/)
