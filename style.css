@@ -4,8 +4,21 @@
   padding: 0;
 }
 
+html {
+  scroll-snap-type: y mandatory;
+}
+
+section {
+  height: 100vh;
+  width: 100vw;
+  scroll-snap-align: start;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .social {
-  position: absolute;
+  position: fixed;
   bottom: 1rem;
   left: 50%;
   transform: translate(-50%);
